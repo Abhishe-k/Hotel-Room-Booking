@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\HotelBookingService\HotelBookingService\bin\Debug\HotelBookingService.dll.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\HotelBookingService\HotelBookingService\bin\Debug\HotelBookingService.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\HotelBookingService\HotelBookingService\bin\Debug\HotelBookingService.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\HotelBookingService\HotelBookingService\obj\Debug\HotelBookingService.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\HotelBookingService\HotelBookingService\obj\Debug\HotelBookingService.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\HotelBookingService\HotelBookingService\obj\Debug\HotelBookingService.csprojResolveAssemblyReference.cache
